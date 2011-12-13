@@ -1,5 +1,7 @@
 package com.fedorvlasov.lazylist;
 
+import com.fedorvlasov.imageloader.ImageLoader;
+
 import android.app.Activity;
 import android.content.Context;
 import android.view.LayoutInflater;
